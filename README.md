@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **woxjfbekqjyi@proton.me**
 
-- ⚡ Fun fact **I think I am funny and I laugh a lot. Oh, and I take my cybersecurity seriously.**
+- ⚡ Fun fact **I think I am funny and I laugh a lot. Oh, and I take cybersecurity seriously.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
