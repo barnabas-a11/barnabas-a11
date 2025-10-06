@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barnabas</h1>
+<h1 align="center">Hi 👋, I'm Barnabas also known as t3jfel in the cyber world.</h1>
 <h3 align="center">Obsessed with what technology has to offer.</h3>
 
 - 🌱 I’m currently learning **Cybersecurity, Rust || Python**
